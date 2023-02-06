@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Header](/assets/header.png)]
+![Header](/assets/header.png)
 
 About Me
 
