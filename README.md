@@ -1,5 +1,5 @@
 ![Header](/assets/header.png)
-## Beginner java developer
+## Java developer
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pluxury-mp4&show_icons=true&theme=dark&count_private=true)
