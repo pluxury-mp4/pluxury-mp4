@@ -1,8 +1,7 @@
-![Header](/assets/header.png)
-## Java developer
+# Max Blazhin
 
+**Java Backend Developer** · Spring Boot · PostgreSQL
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pluxury-mp4&show_icons=true&theme=dark&count_private=true)
-## Languages and Tools
-![Java](https://img.shields.io/badge/-Java-090909?style=for-the-badge&logo=java) ![Spring](https://img.shields.io/badge/-Spring-090909?style=for-the-badge&logo=Spring) ![maven](https://img.shields.io/badge/-maven-090909?style=for-the-badge&logo=maven) ![sql](https://img.shields.io/badge/-sql-090909?style=for-the-badge&logo=mySql) ![GIT](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=GIT)
-##
+Telegram · `@blazhinm`
+
+![pluxury.mp4 banner with violet accents, a marble sculpture, and a retro Notepad window](assets/profile-banner.jpg)
